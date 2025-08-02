@@ -1,9 +1,7 @@
 """Author Name: Eyob Tekle
    Department: IT engineering
-   Id Number: MIT/UR190707/16
-   Section: Section 4
    Date: 2017/10/10
-                       submited to: Dr. Tuemay"""
+                     """
    
 from tkinter import *
 #from PIL import ImageTk, Image
